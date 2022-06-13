@@ -21,9 +21,9 @@ Joyfull Jasper Week 2
 - [Javascript HTML Dom](#javascript-html-dom)
     - [Cara Akses Element HTML](#cara-akses-element-html)
 
-### Scope di Javascript
+## Scope di Javascript
 Scope adalah konsep dalam flow data variabel yang enentukan suatu variabel bisa diakses pada scope tertentu atau tidak. Analoginya seperti ini:
-Kita semua bisa melihat bintang-bintang dilangit karena bumi bersifat global. Namun jika kamu tinggal di Bandung, kamu tidak akan bisa melihat monas yang berada di jakarta. Monas bersifat local yaitu hanya berada di Jakarta. Jenis pada scope adalah :
+Kita semua bisa melihat bintang-bintang dilangit karena bumi bersifat global. Namun jika kita tinggal di Sumatera, kita tidak akan bisa melihat monas yang berada di jakarta. Monas bersifat local yaitu hanya berada di Jakarta. Jenis pada scope adalah :
 1. Block scope adalah area yang dicakup oleh scope yang ada di dalam statement if-else atau looping, atau bisa juga kita sebut dengan block statement. 	
 2. Global scope : variabel yang kita buat dapat diakses dimanapun dalam suatu file.
 3. Local scope : variabel yang dideklarasikan di dalam suatu blok bisa berupa function-scoped atau block-scoped. 

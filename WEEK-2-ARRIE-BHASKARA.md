@@ -192,7 +192,7 @@ Penjelasan kode di atas:
 
 contoh penggunaannya
 ```
-Kita akan menampilkan angka 1 sampai dengan 10 di console. 
+//Kita akan menampilkan angka 1 sampai dengan 10 di console. 
 for (let i = 1; i <= 5; i++) {
   console.log(i);
 }

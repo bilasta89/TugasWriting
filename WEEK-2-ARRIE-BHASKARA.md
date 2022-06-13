@@ -73,7 +73,7 @@ const tambah = (a,b) => {
 }
 
 ```
-### Objek pada Javascript
+## Objek pada Javascript
 Di JavaScript, objek bisa digambarkan sebagai sesuatu yang memiliki properti dan nilai. Sebagai contoh, manusia. Manusia memiliki nama, pekerjaan, umur, dan lain sebagainya. Nah, kemudian kita tahu bahwa nama orang ini adalah Sarah, pekerjaannya adalah programmer, umurnya 24 tahun, dan lain-lain.
 Dalam hal ini, manusia adalah objek. Kemudian nama, pekerjaan, umur adalah properti objek. Terakhir, Sarah adalah nilai dari properti nama, programmer adalah nilai dari properti pekerjaan, dan 24 tahun adalah nilai dari properti umur.
 ```
@@ -84,7 +84,7 @@ let orang = {
 };
 console.log(orang)
 ```
-#### Mengakses Properti Objek
+### Mengakses Properti Objek
 
 Jika kita ingin menggunakan nilai yang terdapat di dalam properti suatu objek, maka kita harus mengakses properti objek tersebut.
 ##### Dot Notation
@@ -141,7 +141,7 @@ Gambar di bawah ini adalah ilustrasi nomor index di array:
 
 ![index array](https://skilvul-assets-01.s3-ap-southeast-1.amazonaws.com/lesson/intro-to-javascript/array-index.png)
 
-#### JavaScript Conditional
+## JavaScript Conditional
 Kalau diterjemahkan ke dalam bahasa Indonesia, conditional artinya adalah persyaratan. Lalu, kalau dalam konsep JavaScript, conditional itu kira-kira seperti apa? Di JavaScript ada dua cara menulis perintah conditional, yaitu:
 - Menggunakan if, else if dan else.
 - Menggunakan switch dan case.
@@ -177,7 +177,7 @@ switch (pernyataan) {
     // keputusan yang dijalankan ketika semua kondisi tidak tercapai
 }
 ```
-#### Perulangan (Looping)
+## Perulangan (Looping)
 ##### for loop
 ```
 for (pernyataan1; pernyataan2; pernyataan3) {
@@ -257,7 +257,7 @@ Output:
 5
 */
 ```
-#### JavaScript HTML DOM
+## JavaScript HTML DOM
 DOM adalah singkatan dari Document Object Model. Dengan adanya DOM ini, JavaScript diberi akses untuk membuat HTML menjadi dinamis, seperti:
 
     Mengubah element HTML pada halaman website.

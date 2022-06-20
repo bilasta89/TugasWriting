@@ -345,4 +345,3 @@ Penjelasan kode di atas:
 
 Ketika kita memanggil *document.querySelectorAll("h1.header")*, document sebagai akar objek dari halaman html kita akan mencari semua element *h1* dengan attribute class bernilai header di bawahnya. Begitu juga ketika memanggil *document.querySelectorAll('#header2')*, document akan mencari semua element dengan id bernilai header2 di bawahnya.
 
-#### Git dan GitHub Lanjutan

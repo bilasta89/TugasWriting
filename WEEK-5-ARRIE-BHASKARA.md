@@ -42,19 +42,21 @@ JSX adalah syntax extension Javascript, dikembangkan untuk digunakan pada React 
 ### Curly Braces di JSX
 
 ![Curly braces](/asset/curly-braces.jpg)
-ouput : 5
+
+- ouput : 5
 
 ### Variable di JSX
 
 ![Variable di JSX](/asset/varible-jsx.jpg)
-Output :
-John Doe
-john doe
+- Output :
+- John Doe
+- john doe
 
 ### Atribute di JSX
 
 ![Atribute di JSX](/asset/atribute-jsx.jpg)
-output
+- output
+
 ![output](/asset/output.jpg)
 
 ### Event di JSX

@@ -79,7 +79,7 @@ JSX adalah syntax extension Javascript, dikembangkan untuk digunakan pada React 
 
 ### Create Projek component dengan React JS
 
-ekspetasi output :
+- ekspetasi output :
 ![ekspetasi output](/asset/ekspetasiOutput.jpg)
 
 - Langkah 1 - Buat Project Baru

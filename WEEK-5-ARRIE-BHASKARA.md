@@ -30,10 +30,6 @@ JSX adalah syntax extension Javascript, dikembangkan untuk digunakan pada React 
 ![Contoh double parent](/asset/jsx%20element.jpg)
 ![Error double parent](/asset/error-jsx.jpg)
 
-### Virtual DOM
-
-- Duplikasi dari real DOM yang sebenarnya,
-- Jika kita memiliki 2 komponen UI dalam 1 page, kita dapat mengupdate data pada 1 komponen, maka React JS hanya melakukan render ulang pada komponen tersebut.
 
 ### class dan className
 

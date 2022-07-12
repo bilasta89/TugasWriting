@@ -4,7 +4,7 @@
 
 ## Introduction Redux
 
-Redux adalah salah satu library state management yang biasa disandingkan dengan react. Tujuanya adalah menyimpan state di satu tempat, sehingga lebih mudah untuk di manage.
+Redux adalah salah satu library state managemenPt yang biasa disandingkan dengan react. Tujuanya adalah menyimpan state di satu tempat, sehingga lebih mudah untuk di manage. Redux juga menawarkan tools untuk masing-masing browser contoh chrome redux devtools untuk memonitor keadaan state kita saat ini. Package middleware-nya juga sudah banyak di kembangkan gratis dan siap digunakan untuk memudahkan kita mengembangkan aplikasi yang kita sedang kerjakan.
 
 ## Cara Bekerja
 
@@ -20,7 +20,7 @@ Redux adalah salah satu library state management yang biasa disandingkan dengan 
 Instal Redux
 
 ```
-npm install @reduxjs/toolkit
+npm install @reduxjs/toolkit react-redux
 ```
 
 ### 1. Membuat store dan koneksikan ke aplikasi react kita
@@ -112,7 +112,7 @@ export default bookSlice.reducer;
 export const { borrow } = bookSlice.actions;
 ```
 
-- Store menerima createSlice dari BooksSlice, di App.js di tambahkan
+- Store menerima createSlice dari BooksSlice,
 
 ```
 import bookReducer from "../Components/Books/BookSlice";
@@ -249,6 +249,8 @@ export default App;
 
 ```
 
+note : hooks => useState, useState, useEffect. dll
+
 ## Bootstrap di React JS
 
 Instal bootstrap di project React kita untuk menggunakan react-bootstrap
@@ -312,8 +314,8 @@ test('renders learn react link', () => {
 });
 
 ```
+
 ![testing-react](testing/test.jpg)
 
 testing yg digunakan untuk mengecek tulisan "learn react", jika tulisan reactnya kita hapus pada unit testnya akan eror tetapi aplikasinya tetap berjalan.
-      
 ![eror-testing](testing/error%20testing.jpg)

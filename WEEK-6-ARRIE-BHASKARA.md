@@ -249,7 +249,7 @@ export default App;
 
 ```
 
-note : hooks => useState, useState, useEffect. dll
+note : **hooks => useState, useState, useEffect. dll**
 
 ## Bootstrap di React JS
 
@@ -318,4 +318,5 @@ test('renders learn react link', () => {
 ![testing-react](testing/test.jpg)
 
 testing yg digunakan untuk mengecek tulisan "learn react", jika tulisan reactnya kita hapus pada unit testnya akan eror tetapi aplikasinya tetap berjalan.
+
 ![eror-testing](testing/error%20testing.jpg)

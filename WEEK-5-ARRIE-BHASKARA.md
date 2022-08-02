@@ -30,11 +30,6 @@ JSX adalah syntax extension Javascript, dikembangkan untuk digunakan pada React 
 ![Contoh double parent](/asset/jsx%20element.jpg)
 ![Error double parent](/asset/error-jsx.jpg)
 
-### Virtual DOM
-
-- Duplikasi dari real DOM yang sebenarnya,
-- Jika kita memiliki 2 komponen UI dalam 1 page, kita dapat mengupdate data pada 1 komponen, maka React JS hanya melakukan render ulang pada komponen tersebut.
-
 ### class dan className
 
 ![Class di React](/asset/classname%20JS.jpg)
@@ -42,19 +37,23 @@ JSX adalah syntax extension Javascript, dikembangkan untuk digunakan pada React 
 ### Curly Braces di JSX
 
 ![Curly braces](/asset/curly-braces.jpg)
-ouput : 5
+
+- ouput : 5
 
 ### Variable di JSX
 
 ![Variable di JSX](/asset/varible-jsx.jpg)
-Output :
-John Doe
-john doe
+
+- Output :
+- John Doe
+- john doe
 
 ### Atribute di JSX
 
 ![Atribute di JSX](/asset/atribute-jsx.jpg)
-output
+
+- output
+
 ![output](/asset/output.jpg)
 
 ### Event di JSX
@@ -77,8 +76,8 @@ output
 
 ### Create Projek component dengan React JS
 
-ekspetasi output :
-![ekspetasi output](/asset/ekspetasiOutput.jpg)
+- ekspetasi output :
+  ![ekspetasi output](/asset/ekspetasiOutput.jpg)
 
 - Langkah 1 - Buat Project Baru
 
@@ -155,6 +154,3 @@ function App() {
   );
 }
 ```
-
-- Info lebih lanjut Router JS
-  <https://reactrouter.com/docs/en/v6/getting-started/installation#basic-installation>

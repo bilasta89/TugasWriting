@@ -43,11 +43,13 @@ Kita dapat menggunakan node di terminal kita dengan mengetik **“node”** kemu
 ![OS Node JS](asset/3-node-js.jpg)
 
 **4. Util** : merupakan alat bantu / utilities untuk mendukung kebutuhan internal API di Node JS
+
 **5. Events**
 
 ![Events Node JS](asset/4-node-js.jpg)
 
 **6. Error** : merupakan modules yang dapat digunakan untuk mendefinisikan error di Node JS sehingga lebih informatif. Kita juga dapat menghandle error menggunakan "try catch"
+
 **7. Buffers**: modules yang digunakan untuk mengakses, mengelola dan mengubah tipe data raw atau tipe data bytes
 
 ![Buffer Node JS](asset/5-node-js.jpg)
